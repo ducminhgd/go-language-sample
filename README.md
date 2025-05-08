@@ -10,7 +10,7 @@ A sample project for multi-language API with translation capabilities.
 
 ## Requirements
 
-- Go 1.21+
+- Go 1.24+
 - Dependencies:
   - github.com/go-chi/chi/v5
   - github.com/leonelquinteros/gotext
