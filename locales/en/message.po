@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Go Language Sample\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "hello"
+msgstr "Hello"
+
+msgid "welcome"
+msgstr "Welcome to our translation service"
+
+msgid "goodbye"
+msgstr "Goodbye"
+
+msgid "thank_you"
+msgstr "Thank you for using our service"
+
+msgid "error_not_found"
+msgstr "Translation not found"

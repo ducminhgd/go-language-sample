@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Go Language Sample\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "hello"
+msgstr "Xin chào"
+
+msgid "welcome"
+msgstr "Chào mừng đến với dịch vụ dịch thuật của chúng tôi"
+
+msgid "goodbye"
+msgstr "Tạm biệt"
+
+msgid "thank_you"
+msgstr "Cảm ơn bạn đã sử dụng dịch vụ của chúng tôi"
+
+msgid "error_not_found"
+msgstr "Không tìm thấy bản dịch"
